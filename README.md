@@ -1,2 +1,2 @@
-# Basic-C-Programs
-It contain basic c programs just to build logic
+# Basic-C/cpp-Programs
+It contain basic c or cpp programs just to build logic
